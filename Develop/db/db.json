@@ -1,4 +1,5 @@
-[
+{
+  "notes": [
   {
       "title":"Notes",
       "text":"Your note you just wrote",
@@ -17,3 +18,4 @@
   }
   
 ]
+}
