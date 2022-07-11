@@ -1,34 +1,19 @@
 {
   "notes": [
     {
-      "title": "Notes",
-      "text": "Your note you just wrote",
-      "id": "0"
+      "title": "Poem",
+      "text": "Roses are Red\nViolets are blue\nSugar is sweet\nand so are you",
+      "id": 0
     },
     {
-      "title": "Notes 2",
-      "text": "Your note you just wrote",
-      "id": "1"
+      "title": "Ideas for new website",
+      "text": "Make a big deal of it",
+      "id": 1
     },
     {
-      "title": "Notes 3",
-      "text": "Your note you just wrote",
-      "id": "2"
-    },
-    {
-      "title": "fdgdfg",
-      "text": "dfgfdg",
-      "id": "3"
-    },
-    {
-      "title": "dfg",
-      "text": "dfgdfg",
-      "id": "4"
-    },
-    {
-      "title": "sdfsd",
-      "text": "sdfsdf",
-      "id": "5"
+      "title": "Yesterday's Idea",
+      "text": "The big Idea",
+      "id": 2
     }
   ]
 }
